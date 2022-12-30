@@ -1,2 +1,2 @@
-msg = "Hello World"
-print(msg)
+thislist = ["apple", "banana", "cherry", "apple", "cherry"]
+print(thislist)
